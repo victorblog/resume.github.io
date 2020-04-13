@@ -357,12 +357,14 @@
                 }), t._v("与我联系\n\t\t\t\t\t\t")]), a("a", {
                     staticClass: "button",
                     attrs: {
-                        href: "https://github.com/xLong1029/xlong-resume/blob/gh-pages/file/victor.pdf?raw=true",
+                        // href: "https://github.com/xLong1029/xlong-resume/blob/gh-pages/file/victor.pdf?raw=true",
                         target: "_blank"
                     }
-                }, [a("i", {
-                    staticClass: "iconfont ic-download-f"
-                }), t._v("下载简历\n\t\t\t\t\t\t")])])])])
+                }
+                // , [a("i", {
+                //     staticClass: "iconfont ic-download-f"
+                // }), t._v("下载简历\n\t\t\t\t\t\t")]
+                )])])])
             }
         ]
             , C = {
