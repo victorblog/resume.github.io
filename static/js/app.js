@@ -742,27 +742,27 @@
                 staticClass: "social-links"
             }, [a("li", [a("a", {
                 attrs: {
-                    href: "http://wpa.qq.com/msgrd?v=3&uin=381612175&site=qq&menu=yes"
+                    // href: "http://wpa.qq.com/msgrd?v=3&uin=381612175&site=qq&menu=yes"
                 }
             }, [a("i", {
                 staticClass: "iconfont ic-qq"
             })])]), a("li", [a("a", {
                 attrs: {
-                    href: "https://github.com/xLong1029",
+                    // href: "https://github.com/xLong1029",
                     target: "_blank"
                 }
             }, [a("i", {
                 staticClass: "iconfont ic-githubb"
             })])]), a("li", [a("a", {
                 attrs: {
-                    href: "http://xlong.zcool.com.cn",
+                    // href: "http://xlong.zcool.com.cn",
                     target: "_blank"
                 }
             }, [a("i", {
                 staticClass: "iconfont ic-zcool"
             })])]), a("li", [a("a", {
                 attrs: {
-                    href: "https://i.ui.cn/ucenter/358591.html",
+                    // href: "https://i.ui.cn/ucenter/358591.html",
                     target: "_blank"
                 }
             }, [a("i", {
