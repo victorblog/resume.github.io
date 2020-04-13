@@ -343,7 +343,7 @@
                     staticClass: "six columns main-col wow fadeIn"
                 }, [a("div", {
                     staticClass: "arrow-left"
-                }), a("p", [t._v("\n\t\t\t\t\tHi，我是淡瑞青，网络别名：Victor / VictorDan。\n\t\t\t\t")]), a("p", [t._v("\n\t\t\t\t\t我是一个Java后端开发工程师，业余爱好阅读音乐。我学习能力强，喜欢挑战，工作负责，善于分析总结，善于沟通，对新技术有前瞻性。\n\t\t\t\t")]), a("p", [t._v("\n\t\t\t\t\t我精通JAVA、SSM、SpringBoot、MySQL、并发等技术；\n\t\t\t\t")]), a("p", [t._v("\n\t\t\t\t\t熟悉但不限于JVM、Spark、Vue.js、Tensorflow、Hive、Redis、RabbitMQ分布式中间件、SpringCloud、Dubbo等技术；\n\t\t\t\t")]), a("p", [t._v("\n\t\t\t\t\t擅长使用Docker、Linux、Python、Shell等；\n\t\t\t\t")]), a("p", [t._v("\n\t\t\t\t\t熟悉MVVM、MVC模式开发，倾向于前后端分离的开发模式；\n\t\t\t\t")]), a("p", [t._v("\n\t\t\t\t\t熟练运用Svn、Git进行版本控制；\n\t\t\t\t")]), a("p", [t._v("\n\t\t\t\t\t了解数据挖掘、Service Mesh、DevOps，了解微信小程序开发；\n\t\t\t\t")]), a("div", {
+                }), a("p", [t._v("\n\t\t\t\t\tHi，我是淡瑞青，英文名：Victor / VictorDan。\n\t\t\t\t")]), a("p", [t._v("\n\t\t\t\t\t我是一个Java后端开发工程师，业余爱好阅读音乐。我学习能力强，喜欢挑战，工作负责，善于分析总结，善于沟通，对新技术有前瞻性。\n\t\t\t\t")]), a("p", [t._v("\n\t\t\t\t\t我精通JAVA、SSM、SpringBoot、MySQL、并发等技术；\n\t\t\t\t")]), a("p", [t._v("\n\t\t\t\t\t熟悉但不限于JVM、Spark、Vue.js、Tensorflow、Hive、Redis、RabbitMQ分布式中间件、SpringCloud、Dubbo等技术；\n\t\t\t\t")]), a("p", [t._v("\n\t\t\t\t\t擅长使用Docker、Linux、Python、Shell等；\n\t\t\t\t")]), a("p", [t._v("\n\t\t\t\t\t熟悉MVVM、MVC模式开发，倾向于前后端分离的开发模式；\n\t\t\t\t")]), a("p", [t._v("\n\t\t\t\t\t熟练运用Svn、Git进行版本控制；\n\t\t\t\t")]), a("p", [t._v("\n\t\t\t\t\t了解数据挖掘、Service Mesh、DevOps，了解微信小程序开发；\n\t\t\t\t")]), a("div", {
                     staticClass: "row"
                 }, [a("div", {
                     staticClass: "six columns download"
@@ -465,7 +465,7 @@
                     staticClass: "three columns header-col"
                 }, [a("h2", [a("span", [t._v("教育")])])]), a("div", {
                     staticClass: "nine columns main-col"
-                }, [a("p", [t._v("\n\t\t\t\t2017年毕业于 福州大学(211) 计算机科学与技术（系统结构方向） 本科专业\n\t\t\t")])])])
+                }, [a("p", [t._v("\n\t\t\t\t2017年毕业于 福州大学(211) 计算机科学与技术(卓越班) 本科专业\n\t\t\t")])])])
             }
             , function() {
                 var t = this
