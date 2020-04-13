@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a485de1e-4868-4989-bb10-f4862c5ddf66" name="Default Changelist" comment="">
+    <list default="true" id="a485de1e-4868-4989-bb10-f4862c5ddf66" name="Default Changelist" comment="resume">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/static/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/app.js" afterDir="false" />
     </list>
@@ -19,8 +19,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/static/js/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="241">
-              <caret line="360" column="31" lean-forward="true" selection-start-line="360" selection-start-column="31" selection-end-line="360" selection-end-column="31" />
+            <state relative-caret-position="168">
+              <caret line="467" column="85" lean-forward="true" selection-start-line="467" selection-start-column="85" selection-end-line="467" selection-end-column="85" />
             </state>
           </provider>
         </entry>
@@ -54,6 +54,7 @@
       <find>https://xlong.zcool.com.cn/</find>
       <find>http://xlong.zcool.com.cn</find>
       <find>下载</find>
+      <find>bar-expand illustrator wow fadeInLeft</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -117,7 +118,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/static/img" />
+    <property name="last_opened_file_path" value="$USER_HOME$/hexo" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -150,7 +151,7 @@
       <option name="presentableId" value="Default" />
       <updated>1586798363883</updated>
       <workItem from="1586798365053" duration="757000" />
-      <workItem from="1586799817959" duration="8297000" />
+      <workItem from="1586799817959" duration="9840000" />
     </task>
     <task id="LOCAL-00001" summary="resume">
       <created>1586799887414</created>
@@ -292,11 +293,39 @@
       <option name="project" value="LOCAL" />
       <updated>1586807810534</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="resume">
+      <created>1586808122271</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1586808122271</updated>
+    </task>
+    <task id="LOCAL-00022" summary="resume">
+      <created>1586808244923</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1586808244923</updated>
+    </task>
+    <task id="LOCAL-00023" summary="resume">
+      <created>1586808514560</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1586808514560</updated>
+    </task>
+    <task id="LOCAL-00024" summary="resume">
+      <created>1586809422739</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1586809422739</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9054000" />
+    <option name="totallyTimeSpent" value="10597000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="83" y="27" width="1837" height="1053" extended-state="6" />
@@ -417,8 +446,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/static/js/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="241">
-          <caret line="360" column="31" lean-forward="true" selection-start-line="360" selection-start-column="31" selection-end-line="360" selection-end-column="31" />
+        <state relative-caret-position="168">
+          <caret line="467" column="85" lean-forward="true" selection-start-line="467" selection-start-column="85" selection-end-line="467" selection-end-column="85" />
         </state>
       </provider>
     </entry>
