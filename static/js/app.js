@@ -465,7 +465,7 @@
                     staticClass: "three columns header-col"
                 }, [a("h2", [a("span", [t._v("教育")])])]), a("div", {
                     staticClass: "nine columns main-col"
-                }, [a("p", [t._v("\n\t\t\t\t2017年毕业于 福州大学 计算机科学与技术（系统结构方向） 本科专业\n\t\t\t")])])])
+                }, [a("p", [t._v("\n\t\t\t\t2017年毕业于 福州大学(211) 计算机科学与技术（系统结构方向） 本科专业\n\t\t\t")])])])
             }
             , function() {
                 var t = this
