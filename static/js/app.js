@@ -127,7 +127,7 @@
     },
     "2e57": function(t, e, a) {},
     "37b4": function(t, e, a) {
-        t.exports ="static/img/8.jpg"
+        t.exports ="static/img/88.png"
     },
     4578: function(t, e, a) {},
     "56d7": function(t, e, a) {
@@ -633,13 +633,13 @@
                     }, {
                         tag: "development",
                         wowDelay: "0.5",
-                        url: "https://xmxx.zhujia100.com/#/ProjectNews",
+                        // url: "https://xmxx.zhujia100.com/#/ProjectNews",
                         imgUrl: a("1ec1"),
                         title: "项目申报资讯平台"
                     }, {
                         tag: "design",
                         wowDelay: "0.7",
-                        url: "https://www.zcool.com.cn/work/ZMTg0NTY0ODA=.html",
+                        // url: "https://www.zcool.com.cn/work/ZMTg0NTY0ODA=.html",
                         imgUrl: a("922d"),
                         title: "人工智能分析计算平台——天知心，大数智"
                     }]
@@ -837,7 +837,7 @@
         s.a
     },
     "83dc": function(t, e, a) {
-        t.exports = "static/img/1.jpg"
+        t.exports = "static/img/11.png"
     },
     "922d": function(t, e, a) {
         t.exports = "static/img/3.jpg"
@@ -956,6 +956,6 @@
     ebd9: function(t, e, a) {},
     f176: function(t, e, a) {},
     f868: function(t, e, a) {
-        t.exports = "static/img/7.jpg"
+        t.exports = "static/img/77.png"
     }
 });
