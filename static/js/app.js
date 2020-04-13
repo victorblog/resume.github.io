@@ -822,7 +822,7 @@
     },
     "5c48": function(t, e, a) {},
     "72b4": function(t, e, a) {
-        t.exports = "../img/qrcode1.jpg"
+        t.exports = "static/img/qrcode1.jpg"
     },
     "768d": function(t, e, a) {
         "use strict";
@@ -837,13 +837,13 @@
         s.a
     },
     "83dc": function(t, e, a) {
-        t.exports = "../img/1.jpg"
+        t.exports = "static/img/1.jpg"
     },
     "922d": function(t, e, a) {
-        t.exports = "../img/3.jpg"
+        t.exports = "static/img/3.jpg"
     },
     "92ef": function(t, e, a) {
-        t.exports ="../img/avatar1.jpeg"
+        t.exports ="../static/img/avatar1.jpeg"
     },
     9436: function(t, e, a) {
         "use strict";
@@ -852,7 +852,7 @@
         s.a
     },
     "951a": function(t, e, a) {
-        t.exports = "../img/default.jpg"
+        t.exports = "static/img/default.jpg"
     },
     "99fc": function(t, e, a) {},
     a5eb: function(t, e) {
@@ -956,6 +956,6 @@
     ebd9: function(t, e, a) {},
     f176: function(t, e, a) {},
     f868: function(t, e, a) {
-        t.exports = "../img/7.jpg"
+        t.exports = "static/img/7.jpg"
     }
 });
