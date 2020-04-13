@@ -849,7 +849,7 @@
         t.exports = "static/img/3.jpg"
     },
     "92ef": function(t, e, a) {
-        t.exports ="static/img/avatar1.jpeg"
+        t.exports ="static/img/avatar2.jpeg"
     },
     9436: function(t, e, a) {
         "use strict";
