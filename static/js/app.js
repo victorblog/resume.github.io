@@ -127,7 +127,7 @@
     },
     "2e57": function(t, e, a) {},
     "37b4": function(t, e, a) {
-        t.exports ="static/img/88.png"
+        t.exports ="static/img/8.jpg"
     },
     4578: function(t, e, a) {},
     "56d7": function(t, e, a) {
@@ -837,7 +837,7 @@
         s.a
     },
     "83dc": function(t, e, a) {
-        t.exports = "static/img/11.png"
+        t.exports = "static/img/1.jpg"
     },
     "922d": function(t, e, a) {
         t.exports = "static/img/3.jpg"
@@ -956,6 +956,6 @@
     ebd9: function(t, e, a) {},
     f176: function(t, e, a) {},
     f868: function(t, e, a) {
-        t.exports = "static/img/77.png"
+        t.exports = "static/img/7.jpg"
     }
 });
