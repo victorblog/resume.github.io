@@ -111,11 +111,11 @@
         t.exports = a("56d7")
     },
     "19f6": function(t, e, a) {
-        t.exports = a.p + "/img/2.jpg"
+        t.exports ="static/img/2.jpg"
     },
     "1a6b": function(t, e, a) {},
     "1ec1": function(t, e, a) {
-        t.exports = a.p + "static/img/9.jpg"
+        t.exports ="static/img/9.jpg"
     },
     "1ecc": function(t, e, a) {},
     "213c": function(t, e, a) {},
@@ -843,7 +843,7 @@
         t.exports = "static/img/3.jpg"
     },
     "92ef": function(t, e, a) {
-        t.exports ="../static/img/avatar1.jpeg"
+        t.exports ="static/img/avatar1.jpeg"
     },
     9436: function(t, e, a) {
         "use strict";
