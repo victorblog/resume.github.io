@@ -448,7 +448,7 @@
                     staticClass: "bar-expand eggjs wow fadeInLeft"
                 }), a("em", [t._v("Linux")])]), a("li", [a("span", {
                     staticClass: "bar-expand illustrator wow fadeInLeft"
-                }), a("em", [t._v("Illustrator")])])])])])])
+                }), a("em", [t._v("TensorFlow")])])])])])])
             }
             , function() {
                 var t = this
@@ -956,6 +956,6 @@
     ebd9: function(t, e, a) {},
     f176: function(t, e, a) {},
     f868: function(t, e, a) {
-        t.exports = "static/img/7.jpg"
+        t.exports = "../img/7.jpg"
     }
 });
