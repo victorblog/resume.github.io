@@ -111,7 +111,7 @@
         t.exports = a("56d7")
     },
     "19f6": function(t, e, a) {
-        t.exports = a.p + "static/img/2.jpg"
+        t.exports = a.p + "/img/2.jpg"
     },
     "1a6b": function(t, e, a) {},
     "1ec1": function(t, e, a) {
@@ -343,7 +343,7 @@
                     staticClass: "six columns main-col wow fadeIn"
                 }, [a("div", {
                     staticClass: "arrow-left"
-                }), a("p", [t._v("\n\t\t\t\t\tHi，我是淡瑞青，网络别名：Victor / VictorDan。\n\t\t\t\t")]), a("p", [t._v("\n\t\t\t\t\t我是一个Java后端开发工程师，业余爱好阅读音乐。我学习能力强，喜欢挑战，工作负责，善于分析总结，善于沟通，对新技术有前瞻性。\n\t\t\t\t")]), a("p", [t._v("\n\t\t\t\t\t我精通JAVA、SSM、SpringBoot、MySQL、并发等技术；\n\t\t\t\t")]), a("p", [t._v("\n\t\t\t\t\t熟悉但不限于Spark、Vue.js、Tensorflow、Hive、Redis、RabbitMQ分布式中间件、SpringCloud、Dubbo等技术；\n\t\t\t\t")]), a("p", [t._v("\n\t\t\t\t\t擅长使用Docker、Linux、Python、Shell等；\n\t\t\t\t")]), a("p", [t._v("\n\t\t\t\t\t熟悉MVVM、MVC模式开发，倾向于前后端分离的开发模式；\n\t\t\t\t")]), a("p", [t._v("\n\t\t\t\t\t熟练运用Svn、Git进行版本控制；\n\t\t\t\t")]), a("p", [t._v("\n\t\t\t\t\t了解数据挖掘、Service Mesh等数据库，了解微信小程序开发；\n\t\t\t\t")]), a("div", {
+                }), a("p", [t._v("\n\t\t\t\t\tHi，我是淡瑞青，网络别名：Victor / VictorDan。\n\t\t\t\t")]), a("p", [t._v("\n\t\t\t\t\t我是一个Java后端开发工程师，业余爱好阅读音乐。我学习能力强，喜欢挑战，工作负责，善于分析总结，善于沟通，对新技术有前瞻性。\n\t\t\t\t")]), a("p", [t._v("\n\t\t\t\t\t我精通JAVA、SSM、SpringBoot、MySQL、并发等技术；\n\t\t\t\t")]), a("p", [t._v("\n\t\t\t\t\t熟悉但不限于Spark、Vue.js、Tensorflow、Hive、Redis、RabbitMQ分布式中间件、SpringCloud、Dubbo等技术；\n\t\t\t\t")]), a("p", [t._v("\n\t\t\t\t\t擅长使用Docker、Linux、Python、Shell等；\n\t\t\t\t")]), a("p", [t._v("\n\t\t\t\t\t熟悉MVVM、MVC模式开发，倾向于前后端分离的开发模式；\n\t\t\t\t")]), a("p", [t._v("\n\t\t\t\t\t熟练运用Svn、Git进行版本控制；\n\t\t\t\t")]), a("p", [t._v("\n\t\t\t\t\t了解数据挖掘、Service Mesh、DevOps，了解微信小程序开发；\n\t\t\t\t")]), a("div", {
                     staticClass: "row"
                 }, [a("div", {
                     staticClass: "six columns download"
@@ -432,7 +432,7 @@
                     staticClass: "three columns header-col"
                 }, [a("h2", [a("span", [t._v("技能熟练度")])])]), a("div", {
                     staticClass: "nine columns main-col"
-                }, [a("p", [t._v("能独立完成一个小型项目开发，包括但不限于PC页面、WebApp、企业CMS等开发。")]), a("div", {
+                }, [a("p", [t._v("能独立完成一个小型项目开发，包括但不限于PC页面、WebApp、爬虫、数据分析、后端接口等开发。")]), a("div", {
                     staticClass: "bars"
                 }, [a("ul", {
                     staticClass: "skills"
@@ -822,7 +822,7 @@
     },
     "5c48": function(t, e, a) {},
     "72b4": function(t, e, a) {
-        t.exports = a.p + "static/img/qrcode1.jpg"
+        t.exports = "static/img/qrcode1.jpg"
     },
     "768d": function(t, e, a) {
         "use strict";
@@ -837,13 +837,13 @@
         s.a
     },
     "83dc": function(t, e, a) {
-        t.exports = a.p + "static/img/1.jpg"
+        t.exports = "static/img/1.jpg"
     },
     "922d": function(t, e, a) {
-        t.exports = a.p + "static/img/3.jpg"
+        t.exports = "static/img/3.jpg"
     },
     "92ef": function(t, e, a) {
-        t.exports = a.p + "static/img/avatar1.jpg"
+        t.exports ="static/img/avatar1.jpg"
     },
     9436: function(t, e, a) {
         "use strict";
@@ -852,7 +852,7 @@
         s.a
     },
     "951a": function(t, e, a) {
-        t.exports = a.p + "static/img/default.jpg"
+        t.exports = "static/img/default.jpg"
     },
     "99fc": function(t, e, a) {},
     a5eb: function(t, e) {
@@ -956,6 +956,6 @@
     ebd9: function(t, e, a) {},
     f176: function(t, e, a) {},
     f868: function(t, e, a) {
-        t.exports = a.p + "static/img/7.jpg"
+        t.exports = "static/img/7.jpg"
     }
 });
