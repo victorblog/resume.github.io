@@ -328,7 +328,7 @@
                 staticClass: "iconfont ic-zcool"
             })])]), a("li", [a("a", {
                 attrs: {
-                    href: "https://i.ui.cn/ucenter/358591.html",
+                    // href: "https://i.ui.cn/ucenter/358591.html",
                     target: "_blank"
                 }
             }, [a("i", {
@@ -597,7 +597,7 @@
                 }, [a("a", {
                     staticClass: "more-work wow fadeInUp",
                     attrs: {
-                        href: "https://xlong.zcool.com.cn",
+                        // href: "https://xlong.zcool.com.cn",
                         target: "_blank"
                     }
                 }, [t._v("\n\t\t\t\t更多作品"), a("span", {
