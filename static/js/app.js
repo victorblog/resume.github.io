@@ -609,25 +609,25 @@
                     work: [{
                         tag: "development",
                         wowDelay: "0.3",
-                        url: "https://github.com/xLong1029/xlong-website-cms",
+                        // url: "https://github.com/xLong1029/xlong-website-cms",
                         imgUrl: a("37b4"),
                         title: "58房产研究院"
                     }, {
                         tag: "design",
                         wowDelay: "0.1",
-                        url: "https://mp.weixin.qq.com/s/RUEZG9__2FW8u9-v2Sgt2g",
+                        // url: "https://mp.weixin.qq.com/s/RUEZG9__2FW8u9-v2Sgt2g",
                         imgUrl: a("f868"),
-                        title: ""
+                        title: "58DP"
                     }, {
                         tag: "development",
                         wowDelay: "0.2",
-                        url: "https://www.zhujia100.com",
+                        // url: "https://www.zhujia100.com",
                         imgUrl: a("83dc"),
-                        title: "建筑综合信息服务平台——筑加网"
+                        title: "广告投放助手"
                     }, {
                         tag: "development design",
                         wowDelay: "0.4",
-                        url: "http://www.geese.com.cn/",
+                        // url: "http://www.geese.com.cn/",
                         imgUrl: a("19f6"),
                         title: "纺织行业企业信息化解决方案"
                     }, {
