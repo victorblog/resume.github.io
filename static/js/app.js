@@ -95,7 +95,7 @@
                 return Object.prototype.hasOwnProperty.call(t, e)
             }
             ,
-            o.p = "/xlong-resume/";
+            o.p = "/resume/";
         var c = window["webpackJsonp"] = window["webpackJsonp"] || []
             , l = c.push.bind(c);
         c.push = e,
@@ -298,7 +298,7 @@
                 attrs: {
                     src: t.avatar
                 }
-            }), a("h2", [t._v("罗永梅")]), a("p", [t._v("前端开发工程师 / 设计爱好者")])]), t._m(0)]), t._m(1)])])])
+            }), a("h2", [t._v("淡瑞青")]), a("p", [t._v("后端开发工程师 / AI爱好者")])]), t._m(0)]), t._m(1)])])])
         }
             , g = [function() {
             var t = this
@@ -314,14 +314,14 @@
                 staticClass: "social"
             }, [a("li", [a("a", {
                 attrs: {
-                    href: "https://github.com/xLong1029",
+                    href: "https://github.com/AnonymousDQ?tab=repositories",
                     target: "_blank"
                 }
             }, [a("i", {
                 staticClass: "iconfont ic-githubb"
             })])]), a("li", [a("a", {
                 attrs: {
-                    href: "http://xlong.zcool.com.cn",
+                    href: "https://victorblog.github.io/",
                     target: "_blank"
                 }
             }, [a("i", {
@@ -343,7 +343,7 @@
                     staticClass: "six columns main-col wow fadeIn"
                 }, [a("div", {
                     staticClass: "arrow-left"
-                }), a("p", [t._v("\n\t\t\t\t\tHi，我是罗永梅，网络别名：xLong / xLong1029。\n\t\t\t\t")]), a("p", [t._v("\n\t\t\t\t\t我是一个Web前端开发工程师，业余爱好字体设计。我学习能力强，喜欢挑战，工作负责，善于分析总结，善于沟通，对新技术有前瞻性。\n\t\t\t\t")]), a("p", [t._v("\n\t\t\t\t\t我精通HTML、CSS、JavasScript/jQuery等前端技术；\n\t\t\t\t")]), a("p", [t._v("\n\t\t\t\t\t熟悉但不限于Bootstrap、Vue.、Egg、Angular等前端框架；\n\t\t\t\t")]), a("p", [t._v("\n\t\t\t\t\t擅长使用Element、Vant、iView、Ant Design等UI框架；\n\t\t\t\t")]), a("p", [t._v("\n\t\t\t\t\t熟悉MVVM、MVC模式开发，倾向于前后端分离的开发模式；\n\t\t\t\t")]), a("p", [t._v("\n\t\t\t\t\t熟练运用Svn、Git进行版本控制；\n\t\t\t\t")]), a("p", [t._v("\n\t\t\t\t\t了解Sql Server、SQLite等数据库，了解微信小程序开发；\n\t\t\t\t")]), a("div", {
+                }), a("p", [t._v("\n\t\t\t\t\tHi，我是淡瑞青，网络别名：Victor / VictorDan。\n\t\t\t\t")]), a("p", [t._v("\n\t\t\t\t\t我是一个Java后端开发工程师，业余爱好阅读音乐。我学习能力强，喜欢挑战，工作负责，善于分析总结，善于沟通，对新技术有前瞻性。\n\t\t\t\t")]), a("p", [t._v("\n\t\t\t\t\t我精通JAVA、SSM、SpringBoot、MySQL、并发等技术；\n\t\t\t\t")]), a("p", [t._v("\n\t\t\t\t\t熟悉但不限于Spark、Vue.js、Tensorflow、Hive、Redis、RabbitMQ分布式中间件、SpringCloud、Dubbo等技术；\n\t\t\t\t")]), a("p", [t._v("\n\t\t\t\t\t擅长使用Docker、Linux、Python、Shell等；\n\t\t\t\t")]), a("p", [t._v("\n\t\t\t\t\t熟悉MVVM、MVC模式开发，倾向于前后端分离的开发模式；\n\t\t\t\t")]), a("p", [t._v("\n\t\t\t\t\t熟练运用Svn、Git进行版本控制；\n\t\t\t\t")]), a("p", [t._v("\n\t\t\t\t\t了解数据挖掘、Service Mesh等数据库，了解微信小程序开发；\n\t\t\t\t")]), a("div", {
                     staticClass: "row"
                 }, [a("div", {
                     staticClass: "six columns download"
@@ -357,7 +357,7 @@
                 }), t._v("与我联系\n\t\t\t\t\t\t")]), a("a", {
                     staticClass: "button",
                     attrs: {
-                        href: "https://github.com/xLong1029/xlong-resume/blob/gh-pages/file/罗永梅_简历（2019）.doc?raw=true",
+                        href: "https://github.com/xLong1029/xlong-resume/blob/gh-pages/file/victor.pdf?raw=true",
                         target: "_blank"
                     }
                 }, [a("i", {
@@ -438,15 +438,15 @@
                     staticClass: "skills"
                 }, [a("li", [a("span", {
                     staticClass: "bar-expand css wow fadeInLeft"
-                }), a("em", [t._v("CSS")])]), a("li", [a("span", {
+                }), a("em", [t._v("Java")])]), a("li", [a("span", {
                     staticClass: "bar-expand html5 wow fadeInLeft"
-                }), a("em", [t._v("HTML5")])]), a("li", [a("span", {
+                }), a("em", [t._v("Spring全家桶")])]), a("li", [a("span", {
                     staticClass: "bar-expand jquery wow fadeInLeft"
-                }), a("em", [t._v("JavaScript / jQuery")])]), a("li", [a("span", {
+                }), a("em", [t._v("Hive/Spark")])]), a("li", [a("span", {
                     staticClass: "bar-expand vuejs wow fadeInLeft"
-                }), a("em", [t._v("Vue")])]), a("li", [a("span", {
+                }), a("em", [t._v("MySQL")])]), a("li", [a("span", {
                     staticClass: "bar-expand eggjs wow fadeInLeft"
-                }), a("em", [t._v("Egg")])]), a("li", [a("span", {
+                }), a("em", [t._v("Linux")])]), a("li", [a("span", {
                     staticClass: "bar-expand illustrator wow fadeInLeft"
                 }), a("em", [t._v("Illustrator")])])])])])])
             }
@@ -460,7 +460,7 @@
                     staticClass: "three columns header-col"
                 }, [a("h2", [a("span", [t._v("教育")])])]), a("div", {
                     staticClass: "nine columns main-col"
-                }, [a("p", [t._v("\n\t\t\t\t2014年毕业于 国立华侨大学 计算机科学与技术（数字媒体技术方向） 本科专业\n\t\t\t")])])])
+                }, [a("p", [t._v("\n\t\t\t\t2017年毕业于 福州大学 计算机科学与技术（系统结构方向） 本科专业\n\t\t\t")])])])
             }
             , function() {
                 var t = this
@@ -478,45 +478,30 @@
                     staticClass: "wow fadeIn"
                 }, [a("span", [a("i", {
                     staticClass: "iconfont ic-certificate pull-left"
-                })]), a("h3", [t._v("证书")]), a("h4", [t._v("英语专业六级")]), a("h4", [t._v("计算机助理工程师")])]), a("li", {
+                })]), a("h3", [t._v("证书")]), a("h4", [t._v("英语专业六级")]), a("h4", [t._v("PAT证书")])]), a("li", {
                     staticClass: "wow fadeIn"
                 }, [a("span", [a("i", {
                     staticClass: "iconfont ic-bisai pull-left"
-                })]), a("h3", [t._v("赛事")]), a("h4", [t._v("曾参与《乱入！Sonkwo形象补全计划 - 杉果吉祥物征集大赛》")]), a("h4", [t._v("曾参与《逸想天开 － 天逸笔记本卡通形象设计大赛》")])]), a("li", {
+                })]), a("h3", [t._v("赛事")]), a("h4", [t._v("曾参与《数学建模大赛》")]), a("h4", [t._v("曾参与《福建省软件开发设计大赛》")])]), a("li", {
                     staticClass: "wow fadeIn"
                 }, [a("span", [a("i", {
                     staticClass: "iconfont ic-love pull-left"
-                })]), a("h3", [t._v("公益")]), a("h4", [t._v("参与设计免费公益字体——站酷文艺体")])])])])])])
+                })]), a("h3", [t._v("公益")]), a("h4", [t._v("山区支教")])])])])])])
             }
         ]
             , E = {
             data: function() {
                 return {
                     experience: [{
-                        company: "润建通信股份有限公司",
-                        workTime: "2019/05 - 至今",
-                        job: "Web前端开发工程师",
-                        jobContent: ["负责研发并维护中国铁塔广西分公司社会资源管理平台，通过GIS地图获取杆塔资源方位，实时监控杆塔资源变化", "负责研发并维护智慧城市资源生态平台，通过GIS地图获取灯杆方位，实时监控灯杆变化，及时派送工单予工人维护", "负责研发并维护广西壮族自治区住房与城乡建设云平台，实现住建厅各门户统一登陆和、监控大屏展示和数据共享", "负责研发广西生活污水垃圾处理设施建设运营管理信息平台，主要负责动态表单功能和自定义模板配置"]
+                        company: "中国厦门外轮代理有限公司",
+                        workTime: "2017/05 - 2018/12",
+                        job: "Java开发工程师",
+                        jobContent: ["负责研发并维护公司门户网站，集装箱管理系统，财务系统，实时监控码头变化，以及报备海关订单处理等", "负责研发并维护黑明管管理平台，通过通用检索算法、报文检索定位黑名单，及时处理黑名单予人工维护", "负责研发并维护社保费征收子系统，实现与厦门社会保障局各门户统一登陆和、监控大屏展示和数据共享", "负责研发公司运营管理信息平台，主要负责动态表单功能和自定义模板配置"]
                     }, {
-                        company: "广西华建信息科技股份公司",
-                        workTime: "2017/05 - 2019/05",
-                        job: "Web前端开发工程师",
-                        jobContent: ["负责研发建筑材料智能选材平台（PC及Mobile端）、项目申报平台（爬取项目信息，仅供内部员工使用）", "自主创新：基于Egg + Vue + Webpack 开发多页面和单页面服务端客户端渲染的企业CMS系统，可用于企业网站，微信微网站的实现。前台页面可响应式匹配各种移动设备", "负责设计吉祥物和表情包"]
-                    }, {
-                        company: "南宁云海风网络科技有限公司",
-                        workTime: "2016/07 - 2017/03",
-                        job: "Web前端项目经理",
-                        jobContent: ["负责公司官网项目的开发和日常维护", "负责教授实习生web前端技术，并指导实习生如期完成公司安排的项目", "参与web课程研发和后期优化，完成教学相关文档编写工作"]
-                    }, {
-                        company: "广西昇泰安电子商务发展有限公司",
-                        workTime: "2015/03 - 2016/06",
-                        job: "web前端/GUI设计师",
-                        jobContent: ["负责公司门下各网站页面调优、维护工作、相关框架拓展开发", "参与app产品原型讨论和产品设计，负责APP开发及游戏宣传海报设计"]
-                    }, {
-                        company: "福建康众畅想信息科技有限公司",
-                        workTime: "2014/02 - 2015/01",
-                        job: "开发部团队组长",
-                        jobContent: ["分配团队开发人员日常任务", "负责公司项目开发，包括但不限于企业站、商城、微信网页等项目", "独立构思制作H5场景应用模版", "负责网站设计和海报设计"]
+                        company: "58同城",
+                        workTime: "2019/06 - 至今",
+                        job: "高级Java开发工程师",
+                        jobContent: ["负责研发58房产研究院产品、广告投放平台平台（爬取项目信息，仅供内部员工使用）", "自主创新：基于SpringBoot + JPA + HBase+Vue.js 针对经纪人投放房源数据分类不明确，可用性不够高，统一口径提供完整的数据服务，为B端销售赋能。前台页面可响应式匹配各种移动设备", "负责运营百度、头条、广点通各大平台的广告投放数据的抓取分析"]
                     }]
                 }
             }
@@ -626,13 +611,13 @@
                         wowDelay: "0.3",
                         url: "https://github.com/xLong1029/xlong-website-cms",
                         imgUrl: a("37b4"),
-                        title: "企业一站式解决方案"
+                        title: "58房产研究院"
                     }, {
                         tag: "design",
                         wowDelay: "0.1",
                         url: "https://mp.weixin.qq.com/s/RUEZG9__2FW8u9-v2Sgt2g",
                         imgUrl: a("f868"),
-                        title: "2018年度字体设计"
+                        title: ""
                     }, {
                         tag: "development",
                         wowDelay: "0.2",
@@ -705,7 +690,7 @@
                     staticClass: "three columns contact-details wow fadeInUp"
                 }, [a("span", {
                     staticClass: "iconfont ic-map"
-                }), a("p", [t._v("广西壮族自治区 南宁市 西乡塘区 衡阳路 西一里")])])
+                }), a("p", [t._v("上海市 浦东新区 张江路 申城佳苑 二期")])])
             }
             , function() {
                 var t = this
@@ -715,7 +700,7 @@
                     staticClass: "three columns contact-details wow fadeInUp"
                 }, [a("span", {
                     staticClass: "iconfont ic-phone1"
-                }), a("p", [t._v("18376686974")])])
+                }), a("p", [t._v("18601684826")])])
             }
             , function() {
                 var t = this
@@ -725,7 +710,7 @@
                     staticClass: "three columns contact-details wow fadeInUp"
                 }, [a("span", {
                     staticClass: "iconfont ic-email"
-                }), a("p", [t._v("381612175@qq.com")])])
+                }), a("p", [t._v("1397743321@qq.com")])])
             }
         ]
             , z = {
@@ -784,7 +769,7 @@
                 staticClass: "iconfont ic-uicn"
             })])])]), a("ul", {
                 staticClass: "copyright"
-            }, [a("li", [t._v("xLong © Copyright 2019, All Rights Reserved")])])]), a("div", {
+            }, [a("li", [t._v("Victor © Copyright 2019, All Rights Reserved")])])]), a("div", {
                 attrs: {
                     id: "go-top"
                 }
@@ -837,7 +822,7 @@
     },
     "5c48": function(t, e, a) {},
     "72b4": function(t, e, a) {
-        t.exports = a.p + "static/img/qrcode.jpg"
+        t.exports = a.p + "static/img/qrcode1.jpg"
     },
     "768d": function(t, e, a) {
         "use strict";
@@ -858,7 +843,7 @@
         t.exports = a.p + "static/img/3.jpg"
     },
     "92ef": function(t, e, a) {
-        t.exports = a.p + "static/img/avatar.jpg"
+        t.exports = a.p + "static/img/avatar1.jpg"
     },
     9436: function(t, e, a) {
         "use strict";
