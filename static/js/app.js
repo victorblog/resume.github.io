@@ -623,7 +623,7 @@
                         wowDelay: "0.1",
                         // url: "https://mp.weixin.qq.com/s/RUEZG9__2FW8u9-v2Sgt2g",
                         imgUrl: a("f868"),
-                        title: "58DP"
+                        title: "58DP数据中台"
                     }, {
                         tag: "development",
                         wowDelay: "0.2",
@@ -962,6 +962,6 @@
     ebd9: function(t, e, a) {},
     f176: function(t, e, a) {},
     f868: function(t, e, a) {
-        t.exports = "static/img/7.jpg"
+        t.exports = "static/img/77.png"
     }
 });
