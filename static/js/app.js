@@ -127,7 +127,7 @@
     },
     "2e57": function(t, e, a) {},
     "37b4": function(t, e, a) {
-        t.exports ="static/img/8.jpg"
+        t.exports ="static/img/88.jpg"
     },
     4578: function(t, e, a) {},
     "56d7": function(t, e, a) {
