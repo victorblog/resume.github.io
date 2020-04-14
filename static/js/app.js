@@ -635,7 +635,7 @@
                         wowDelay: "0.4",
                         // url: "http://www.geese.com.cn/",
                         imgUrl: a("19f6"),
-                        title: "纺织行业企业信息化解决方案"
+                        title: "企业信息化解决方案"
                     }, {
                         tag: "development",
                         wowDelay: "0.5",
@@ -647,7 +647,7 @@
                         wowDelay: "0.7",
                         // url: "https://www.zcool.com.cn/work/ZMTg0NTY0ODA=.html",
                         imgUrl: a("922d"),
-                        title: "人工智能分析计算平台——天知心，大数智"
+                        title: "人工智能分析计算平台"
                     }]
                 }
             }
